@@ -7,7 +7,7 @@ public class MultiCatch {
 			System.out.println(a.charAt(7));
 		}
 		catch(ArithmeticException b) {
-			System.out.println("not a number");
+			System.out.println("Number Not");
 		}
 		catch(NullPointerException c) {
 			System.out.println("null");
