@@ -8,7 +8,7 @@ public class Null {
 		System.out.println(a.toUpperCase());
 	}
 		catch(Exception b) {
-			System.out.println("String invalid");
+			System.out.println("INVALID");
 		}
 	}
 
